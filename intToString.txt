@@ -1,0 +1,6 @@
+
+
+   //Write your code here
+    String s="";
+    s=s+n;
+
